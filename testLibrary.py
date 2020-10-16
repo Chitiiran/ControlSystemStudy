@@ -3,6 +3,6 @@ from scipy.integrate import odeint
 
 a = np.linspace(0,20)
 
-print(a)
+print(a) #todo finish this function
 
-help(odeint)
+
