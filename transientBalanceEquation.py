@@ -121,4 +121,3 @@ plt.legend(['Temperature'], loc='best')
 plt.xlabel('Time (min)')
 
 plt.show()
-
